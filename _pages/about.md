@@ -1,49 +1,84 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+About
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Hi, I’m Wojtek, a researcher and PhD 
+candidate at the Institute of Philosophy and Sociology, 
+**Polish Academy of Sciences** in Warsaw, Poland. 
+I am currently affiliated with the **Section for Logic and Cognitive Science** and **prof. Marcin Miłkowski’s research group**. 
+I have graduated from College of Inter-Faculty Studies in the Humanities, 
+University of Warsaw and hold two MA's – 
+in philosophy (specialization: philosophy of mind) and history (esp. history of science), 
+with distinction.
 
-Getting started
+My research 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Philosophy in/of Cognitive Science
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+My research interests lay on the 
+intersection of philosophy with 
+cognitive science (especially 
+neuroscience and psychology). 
+I mostly interested in how 
+philosophical ideas can play a 
+crucial part in Cog Sci: both as a contributing
+factor, using formal tools and models 
+(thus: philosophy **in** Cog Sci), but 
+also as a meta-level activity
+(in a more classical philosophy 
+**of** Cog Sci flavour). 
+Following both these approaches, 
+I focus on **philosophy of information** 
+and **computational theories of mind**, respectively.
+
+To get more exact, currently I am
+mostly involved with investigating the
+**scope and status of theories of 
+information for explaining cognition** 
+(both natural and artificial), which is a subject of my PhD dissertation. In the thesis, 
+I combine developing novel ideas that build upon philosophical research concerning structural representations and semantic information with the epistemological assessments of explanatory power of information-based theories in cognitive science in general.
+
+Previously, I have also done research on **cognitive penetrability of perception**, **compression-based accounts of representation** and **algorithmization in (AI) ethics**.
+Open projects I keep working on include: the status of **representational format** in neuroscience and defining **generativity**.
+
+
+
+
+History of Quantification
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+So much for the philosophical/cognitive hat. As for the history of science side of things, I am quite bewitched with the omnipresence and deep **trust in numbers, stats and data** in pretty much all domains of life nowadays.
+Hence, as a historian, I wish to understand how and why that happened. Following some historians, philosophers and sociologists of statistics (esp. Ted Porter and Ian Hacking), I call this process **‘quantification’**. 
+My research is geared towards pinpointing both the causal mechanisms of this emergence and its ramifications. Naturally, I tend to focus a lot on the case of Polish history (mid-19th century onwards) within this big picture, which is quite a quirky (and as such – highly instructive) case in the grand scheme of history of stats. 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+In particular, I want to argue for the shift in **‘standards of rationality’** brought about by this torrential flood of metrics and calculations – a central thesis of my longlasting (& ongoing) book-length project in the area. For this purpose – what is in essence a quest for Cognitive History of statistical thinking – I combine methods from history and philosophy of science, history of ideas and STS but also quantitative tools (irony is not lost on me here). You can perhaps now sense why I strongly believe that history and philosophy of science are not disconnected fields of study for me, but  strongly integrated ones (thus my investment in the Integrated HPS [history and philosophy of science] approach). 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Around the site
+======
+If you are interested in some of these problems, you are cordially invited to check the **‘Projects’** or **‘Publications’** bars for more detailed information. The former covers bigger projects that are well advanced, but still under construction, whilst the latter contains published texts or ones that are at least already in a readable form (drafts or manuscripts currently under review). 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You may also find slideshows of selected conference talks and lectures that I gave under the **‘Talks’** banner. Current languages available include English, Polish and... Mongolian!
+
+Do not hesitate to get in touch via **‘Contact’**, if you have questions or are willing to collaborate!
+
+Extracurriculars
+======
+When not busy doing history and philosophy of science 
+(and that is quite a chunk of my time, admittedly), 
+I consume an unholy amount of sports, chiefly soccer. 
+Some years ago, American football also became a revelation. 
+Apart from regular game-watching, I am particularly interested in the introduction of stats into sports (and limitations thereof). 
+
+Other major hobbies include travelling, literature (including video games) and electronic music. I also care a lot about experimenting with food from around the globe (both as a producer and a consumer – in teleosemantic terms). I collect football jerseys and fridge magnets, support Legia Warsaw & Everton F.C. and try to spend as much time with Fąfel the Bernese Mountain Dog as possible.
+
