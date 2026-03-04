@@ -76,6 +76,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  dissertation:
+    title: 'Dissertation'
   books:
     title: 'Books'
   manuscripts:
@@ -224,6 +226,11 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  popular:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 
 # These settings control how pages and collections are included in the site
@@ -237,7 +244,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -253,7 +260,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -262,7 +269,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -271,7 +278,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -280,7 +287,16 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
+      comments: true
+  # _popular
+  - scope:
+      path: ""
+      type: popular
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 
 # Sass/SCSS
@@ -293,7 +309,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

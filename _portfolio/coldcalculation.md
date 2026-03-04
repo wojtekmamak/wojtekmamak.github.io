@@ -1,7 +1,11 @@
 ---
-title: ">>Zimna rachuba<<. Obietnice obliczeniowej racjonalności, czyli jak próbujemy zaufać
-liczbom od Leibniza do Big Data."
-excerpt: "Celem tej książki jest odpowiedź na pozornie proste pytanie: jak to się stało, że w wysoko rozwiniętym
+title: "Cold Calculation: The Promises of Computational Rationality (In Polish: 'Zimna rachuba'. Obietnice obliczeniowej racjonalności, czyli jak próbujemy zaufać liczbom od Leibniza do Big Data."
+
+excerpt: "This book explores the historical and cognitive shift that led modern society to instinctively trust numbers, metrics, and statistics as the ultimate standard of objectivity. By tracing the evolution of quantification from Leibniz to the era of Big Data, it demonstrates how our growing reliance on 'computational rationality' fundamentally transformed how we produce knowledge, establish facts, and persuade others."
+collection: portfolio
+---
+
+Celem tej książki jest odpowiedź na pozornie proste pytanie: jak to się stało, że w wysoko rozwiniętym
 społeczeństwie, gdy chcemy się czegoś dowiedzieć albo kogoś do czegoś przekonać, próbujemy problem
 zmierzyć i obliczyć. Ma to rozjaśnić czemu nam, obywatelom współczesności liczby, mierniki, wskaźniki i
 statystyki wydają się wzorcowo obiektywne i nieodparcie przekonujące. Jako że jest to (przynajmniej
@@ -29,8 +33,6 @@ korzystamy. Przekonuję Czytelnika, że poszukujemy w ten sposób pewności i ob
 opierać się na autorytecie liczb już od czasów XIX-wiecznego galicyjskiego statystyka Mieczysława Marassego, który nazwał dopiero co raczkującą wtedy statystykę **_środkiem dowodowym ponad wszytskie inne argumenta_**. Zaproponowana w tej książce teoria korzysta z narzędzi licznych
 poddziedzin: historii nauki, historii społecznej, socjologii kwantyfikacji i kognitywistyki (epistemologii
 historycznej), dając w efekcie rodzaj interdyscyplinarnej genealogii rozwoju matematycznej racjonalności
-naukowej i ogromnego wpływu, jaki wywiera na życie w XXI wieku. 1<br/><img src='/guskarty1.jpg'>"
-collection: portfolio
----
+naukowej i ogromnego wpływu, jaki wywiera na życie w XXI wieku.
 
-# This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<br/><img src='/guskarty1.jpg'>

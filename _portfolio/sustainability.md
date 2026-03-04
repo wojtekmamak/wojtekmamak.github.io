@@ -1,8 +1,12 @@
 ---
-title: "‘To Foresee and Forestall’: History of
-Statistics in Sustainability Sciences."
-excerpt: "Sustainability sciences are often said to be fundamentally organized around their ambition to
-‘foresee and forestall’ (Schweitzer 1952; Grober 2012). In order to achieve that, they rely on
+title: "‘To Foresee and Forestall’: The Quantitative Lens of Sustainability Sciences"
+excerpt: "This project investigates the overlooked role of computational techniques and quantitative methods in shaping knowledge production within sustainability sciences. By combining Integrated History and Philosophy of Science with digital humanities tools, it scrutinizes how statistical modeling and data circulation drive the field's core ambition to 'foresee and forestall.'"
+collection: portfolio
+---
+
+# Sustainability sciences are often said to be fundamentally organized around their ambition to‘foresee and forestall’ (Schweitzer 1952; Grober 2012). 
+
+In order to achieve that, they rely on
 computational techniques – statistical modelling, simulations, multivariate measurements and
 calculations, which not only shape knowledge-production but also mediate the circulation of
 findings. Interestingly, this crucial aspect of sustainability research has been largely neglected in the
@@ -13,8 +17,4 @@ practices through its quantitative lens. It will utilize methods of integrated h
 science (Integrated HPS; Shan 2020) – in particular history of measurement and quantification
 (Kula 1970; Desrosieres 2011, Porter 1986; 1992, Diaz-Bone & Didier 2016) – but supplemented
 with tools from the digital humanities toolkit, such as simple NLP techniques and quantitative
-history of concepts."
-collection: portfolio
----
-
-# This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+history of concepts.

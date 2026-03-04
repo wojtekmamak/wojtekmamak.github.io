@@ -24,7 +24,14 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/CVakt.pdf
+    url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/
+
+  - title: "Popular Writing"
+    url: /popular/
+
+
+  - title: "Talks Map"
+    url: /talks-map/

@@ -35,13 +35,19 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
-
+        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}}</p>{% endif %}
         </header>
       {% endunless %}
-
-      <section class="page__content" itemprop="text">
+      <section class="page__content" itemprop="text" style="padding-top: 0.5em;">
         {{ content }}
+        
+        {% if page.slidesurl %}
+          <p style="margin-top: 2em;">
+            <a href="{{ page.slidesurl }}" class="btn btn--primary" style="text-decoration: none;">
+              <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download Slides
+            </a>
+          </p>
+        {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
