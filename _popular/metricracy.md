@@ -1,5 +1,5 @@
 ---
-title: "Metricracy (Miarokracja)"
+title: "The Metricracy *(In Polish as 'Miarokracja')*"
 collection: popular
 permalink: /popular/metricracy
 excerpt: "An exploration of society's obsession with quantifying every aspect of life, from sleep quality to political freedom, and the dangerous consequences of reducing complex human realities to simple metrics."

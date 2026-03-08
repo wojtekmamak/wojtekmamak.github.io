@@ -1,9 +1,13 @@
 ---
-title: "Cold Calculation: The Promises of Computational Rationality (In Polish: 'Zimna rachuba'. Obietnice obliczeniowej racjonalności, czyli jak próbujemy zaufać liczbom od Leibniza do Big Data."
+title: "Cold Calculation: The Promises of Computational Rationality (In Polish)"
 
 excerpt: "This book explores the historical and cognitive shift that led modern society to instinctively trust numbers, metrics, and statistics as the ultimate standard of objectivity. By tracing the evolution of quantification from Leibniz to the era of Big Data, it demonstrates how our growing reliance on 'computational rationality' fundamentally transformed how we produce knowledge, establish facts, and persuade others."
 collection: portfolio
 ---
+
+# Zimna rachuba.
+
+## Obietnice obliczeniowej racjonalności, czyli jak próbujemy zaufać liczbom od Leibniza do Big Data.
 
 Celem tej książki jest odpowiedź na pozornie proste pytanie: jak to się stało, że w wysoko rozwiniętym
 społeczeństwie, gdy chcemy się czegoś dowiedzieć albo kogoś do czegoś przekonać, próbujemy problem

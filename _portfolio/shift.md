@@ -1,5 +1,5 @@
 ---
-title: "A Proof Above All. The Emergence of Modern Statistics as a Cognitive Shift – The Case of Poland (1878-1931)"
+title: "*A Proof Above All*. The Emergence of Modern Statistics as a Cognitive Shift in 1878-1931 Poland"
 
 
 excerpt: "This project examines how the rapid introduction of modern statistics in Poland (1878–1931) served not merely as a tool for social modernization, but triggered a profound 'cognitive shift' in public and scientific discourse. By analyzing key historical debates on the outskirts of mainstream European science. it demonstrates how an escalating **'trust in numbers'** (of Ted Porter) fundamentally redefined the standards of rationality and fact-production, effectively becoming **'reasoning by numbers'**."

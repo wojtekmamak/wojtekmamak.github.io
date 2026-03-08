@@ -33,5 +33,5 @@ main:
     url: /popular/
 
 
-  - title: "Talks Map"
-    url: /talks-map/
+  #- title: "Talks Map"
+  # url: /talks-map/

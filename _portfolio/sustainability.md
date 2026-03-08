@@ -1,7 +1,8 @@
 ---
-title: "‘To Foresee and Forestall’: The Quantitative Lens of Sustainability Sciences"
+title: "*To Foresee and Forestall*: The Quantitative Lens of Sustainability Sciences"
 excerpt: "This project investigates the overlooked role of computational techniques and quantitative methods in shaping knowledge production within sustainability sciences. By combining Integrated History and Philosophy of Science with digital humanities tools, it scrutinizes how statistical modeling and data circulation drive the field's core ambition to 'foresee and forestall.'"
 collection: portfolio
+sildesurl: files\SustainabilityWM.pdf
 ---
 
 # Sustainability sciences are often said to be fundamentally organized around their ambition to‘foresee and forestall’ (Schweitzer 1952; Grober 2012). 

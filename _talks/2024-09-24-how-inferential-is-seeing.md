@@ -6,4 +6,5 @@ permalink: /talks/how-inferential-is-seeing
 venue: "Invited Research Fellowship"
 date: 2024-09-24
 location: "Department of Philosophy and Religious Studies, National University of Mongolia (NMU), Ulaanbaatar, Mongolia"
+slidesurl: files\How Inferential Is Seeing_.pdf
 ---

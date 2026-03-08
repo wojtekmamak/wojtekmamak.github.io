@@ -1,9 +1,9 @@
 ---
-title: "From a Cannibal's Diary: On the Benefits of Trying to Cut Up Mothers and Mathematics (Nie będziecie kroić matki kanibale. O pożytkach z krojenia matek i matematyk)"
+title: "From Cannibal's Diary: On the Benefits of Trying to Cut Up Mothers and Mathematics *(In Polish)*"
 collection: popular
 permalink: /popular/cannibals-diary
 excerpt: 'Dismantling the myth of a single uninterrupted highway in the history of mathematics by comparing Greek deductive reasoning with Babylonian pragmatic algorithms—and exploring how the latter anticipated modern computer science.'
-date: 2000-01-01
+# date: 2000-01-01
 venue: 'Draft - forthcoming'
 # paperurl: 'ADD-URL-AFTER-PUBLICATION'
 ---

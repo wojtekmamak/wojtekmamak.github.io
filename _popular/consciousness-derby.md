@@ -1,12 +1,14 @@
 ---
-title: "Did Anyone Win the Consciousness Derby? (Czy ktokolwiek wygrał w derbach świadomości?)"
+title: "Did Anyone Win the Consciousness Derby? *(In Polish)*"
 collection: popular
 permalink: /popular/consciousness-derby
 excerpt: 'The dramatic story of a 25-year bet between a neuroscientist and a philosopher, a multi-million-dollar experiment to settle the "hard problem" of consciousness, and the explosive academic fallout that followed.'
-date: 2000-01-01
+# date: 2000-01-01
 venue: 'Draft - forthcoming'
 # paperurl: 'ADD-URL-AFTER-PUBLICATION'
 ---
+
+# Czy ktokolwiek wygrał w derbach świadomości?
 
 ***[Draft - Forthcoming Publication]***
 

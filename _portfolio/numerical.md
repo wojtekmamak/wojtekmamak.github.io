@@ -1,9 +1,11 @@
 ---
-title: "Przewaga Liczebna. Jak nauczyliśmy się kochać liczyć (The Numerical Advantage: How We Learned to Love Counting)"
-excerpt: "A comprehensive historical and philosophical investigation into the emergence of numerical thinking as the dominant mode of rationality. A biography of the computational mind"
+title: "The Numerical Advantage: How We Learned to Love Counting (In Polish)"
+excerpt: "A comprehensive historical and philosophical investigation into the emergence of numerical thinking as the dominant mode of rationality. A biography of the computational mind in a popular science form"
 collection: portfolio
 permalink: /portfolio/numerical-advantage
 ---
+
+# Przewaga Liczebna. Jak nauczyliśmy się kochać liczyć 
 
 ## Overview
 

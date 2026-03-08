@@ -3,7 +3,16 @@ title: "What Does It Mean To Generate Information"
 collection: publications
 category: manuscripts
 permalink: /publication/generativity
-excerpt: |
+excerpt: 'This paper is the first (to my knowledge) attemt to rigorously define generativity, understood as generation of contentfully novel information'
+date: 2099-06-03
+venue: "Draft (submitted to 'Synthese')"
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: '/files/generativity.pdf'
+citation: 'Mamak, W. (draft). On Generating Information'
+---
+    The aim of this paper is to define generativity, 
+    i.e. to perform a philosophical analysis of conditions required 
+    for a given process to be judged as satisfactorily generating information. 
     The aim of this paper is to define generativity, 
     i.e. to perform a philosophical analysis of conditions required 
     for a given process to be judged as satisfactorily generating information. 
@@ -22,9 +31,3 @@ excerpt: |
     borrowed from computational photography to navigate the complex jungle of instances. 
     On this basis, I offer a new cluster definition of genuine generating of information, 
     that is based on content-preserving inferences that utilize information actively stored in compressed internal representations, that I dub ‘the real-generation account’. This account is inspired by inferentialism in philosophy of perception, Ramsey’s account of representation and Boghossian’s ‘Taking’ condition and work in machine learning on decompressions from internal latent spaces. I conclude with discussing the importance of setting clear boundaries for genuine generativity - for both academic and pragmatic purposes. For the former, I embed this problem within the current debates on ‘stochastic parrots’ and ‘blurry JPGs’ surrounding LLMs, but also within longstanding debates in philosophy about the origins of new knowledge and in psychology about the ontology of mental capacities. As for the latter, I briefly discuss the necessity of clearly diverging generative from non-generative processes for questions about the trustworthiness and veracity of computational artifacts.
-# date: 2026-06-03
-venue: "Draft (to be submitted to 'Synhtese')"
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '/files/generativity.pdf'
-citation: 'Mamak, W. (draft). On Generating Information'
----

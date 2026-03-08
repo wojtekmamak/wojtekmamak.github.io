@@ -1,5 +1,5 @@
 /* ==========================================================================
-   CUSTOM STYLES - UX Redesign CORRECTED
+   CUSTOM STYLES - UX Redesign Final Version
    ========================================================================== */
 
 /* Base Typography */
@@ -89,8 +89,7 @@ a:hover {
   max-width: 100% !important;
 }
 
-/* Author sidebar - ORIGINAL template sizes */
-
+/* Author sidebar - smaller bio, grey name, no circle border */
 .sidebar .author__avatar img {
   max-width: 180px;
   width: 180px;
@@ -102,23 +101,23 @@ a:hover {
 }
 
 .sidebar .author__name {
-  font-size: 1em;
+  font-size: 1.5em;
   color: #5A5856;
-  font-weight: bold;
-  margin-top: 0.5em;
+  font-weight: 600;
+  margin-top: 1em;
 }
 
 .sidebar .author__bio {
-  font-size: 0.8em;
-  line-height: 1.5;
+  font-size: 0.85em;
+  line-height: 1.6;
   color: #6B6965;
-  margin-top: 0.25em;
+  margin-top: 0.5em;
 }
 
 /* Research Interest Cards */
 .research-interests {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmin(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1.5em;
   margin: 2em 0;
   width: 100%;
@@ -205,11 +204,11 @@ a:hover {
   color: #B8865A;
 }
 
-/* Archive items - narrower cards to match 75% line */
+/* Archive items - full width cards, no title underlines */
 .archive__item {
   background: white;
   padding: 1.5em;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.06);
   transition: box-shadow 0.3s ease;
@@ -223,7 +222,6 @@ a:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-/* Title - amber for clickability */
 .archive__item .archive__item-title {
   color: #D4A373;
   font-size: 1.2em;
@@ -231,7 +229,6 @@ a:hover {
   margin-bottom: 0.5em;
   border-bottom: none;
   padding-bottom: 0;
-  font-weight: 600;
 }
 
 .archive__item .archive__item-title a {
@@ -243,33 +240,9 @@ a:hover {
   color: #B8865A;
 }
 
-/* Excerpt - base text color */
 .archive__item .archive__item-excerpt {
   font-size: 0.95em;
   color: #6B6965;
-  margin-bottom: 0.8em;
-}
-
-/* Meta information (venue, date) - lighter grey */
-.archive__item .page__meta {
-  font-size: 0.8em;
-  color: #6B6965;
-  font-style: italic;
-  margin-bottom: 0.5em;
-}
-
-/* Citation - even lighter grey, smaller */
-.archive__item p[style*="font-size: smaller"],
-.archive__item p:last-child {
-  font-size: 0.8em;
-  color: #9B9995;
-  margin-bottom: 0;
-  line-height: 1.4;
-}
-
-/* "Published in" paragraph - darker grey */
-.archive__item p:not(.archive__item-excerpt):not(.page__meta) {
-  color: #5A5856;
 }
 
 /* Page headers */
@@ -286,28 +259,21 @@ a:hover {
 
 /* Archive page titles */
 .archive .page__title {
-  max-width: 60%;
+  max-width: 100%;
 }
 
-
-/* Section headers - NO underlines, tighter spacing */
+/* Section headers in archives - tighter spacing */
 .archive h2 {
   color: #5A5856;
-  border-bottom: none;
-  padding-bottom: 0;
+  border-bottom: 3px solid #D4A373;
+  padding-bottom: 0.3em;
   max-width: 100%;
-  margin-bottom: 0.5em;
-  margin-top: 2em;
+  margin-bottom: 1em;
 }
 
-/* First section should have less top margin */
-.archive h2:first-of-type {
-  margin-top: 1em;
-}
-
-/* Reduce space before first item */
+/* Reduce space before first item in each section */
 .archive h2 + .archive__item {
-  margin-top: 0.3em;
+  margin-top: 0.5em;
 }
 
 /* Image styling */
@@ -401,40 +367,6 @@ img {
   padding-top: 0.5em !important;
 }
 
-/* Hide excerpts ONLY on talks page */
-.talks .archive__item-excerpt {
-  display: none !important;
-}
-
-/* Make sure meta (venue/date) is visible on talks */
-.talks .archive__item .page__meta {
-  display: block !important;
-  font-size: 0.9em;
-  color: #6B6965;
-  font-style: italic;
-  margin-bottom: 0.5em;
-}
-
-/* Research Interest Cards - KEEP 2x2 GRID on homepage */
-.research-interests {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5em;
-  margin: 2em 0;
-  width: 100%;
-}
-
-.interest-card {
-  background: white;
-  padding: 1.5em;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  border-left: 4px solid #D4A373;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  width: 100% !important;  /* Add this line */
-  max-width: 100% !important;  /* Add this line */
-}
-
 /* Responsive adjustments */
 @media (max-width: 768px) {
   html {
@@ -450,31 +382,4 @@ img {
     width: 150px;
     height: 150px;
   }
-  
-  .archive__item {
-    width: 100%;
-    max-width: 100%;
-  }
-  
-  .archive .page__title,
-  .archive h2 {
-    max-width: 100%;
-  }
-}
-
-/* Make ONLY download paper button larger (not slides) */
-.archive__item a[href*="Paper"]:not([href*="Slides"]),
-.page__content a[href*="Paper"]:not([href*="Slides"]) {
-  font-size: 1.15em;
-  font-weight: 600;
-}
-
-/* Replace far-future dates with "Under review" */
-.archive__item .page__meta time[datetime^="2099"] {
-  display: none;
-}
-
-.archive__item .page__meta time[datetime^="2099"]:before {
-  content: "Under review";
-  display: inline;
 }

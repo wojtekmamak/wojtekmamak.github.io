@@ -3,7 +3,7 @@ title: "‘Natural Scene Statistics – A Philosophical Primer for Cognitively-i
 collection: talks
 type: "Talk"
 permalink: /talks/natural-scene-statistics--a-philosophi
-venue: "Invited seminar talk: NCBiR IDEAS + Jagiellonian University TechInfo Lab Working Seminar"
+venue: "Invited seminar: NCBiR IDEAS + Jagiellonian University TechInfo Lab Working Seminar"
 date: 2020-04-30
 location: "online"
 ---

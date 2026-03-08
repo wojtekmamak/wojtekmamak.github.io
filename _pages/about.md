@@ -10,9 +10,9 @@ redirect_from:
 
 ---
 
-Hi, I’m Wojtek. I am a philosopher and historian of science. My research focuses on the intersection of philosophy & cognitive (neuro)science, while investigating history of quantitative ideas on the side. Accordingly, I try to answer <i>two</i> central questions: what are the promises and perils of using information theories to explain the mind, and how has the historical rise of statistics shaped our modern standards of rationality? 
+Hi, I’m Wojtek. I am a philosopher and historian of science. My research focuses on the intersection of philosophy & cognitive (neuro)science, while investigating history of quantitative ideas on the side. Accordingly, I try to answer <i>two</i> central questions: what are the promises and perils of using information theories to explain the mind, and how has the [historical rise of statistics](\portfolio\shift.) shaped our modern standards of rationality? 
 
-Currently, I am a researcher at the Institute of Philosophy and Sociology at the Polish Academy of Sciences (PAN) in Warsaw, affiliated with the Section for Logic and Cognitive Science. I hold two MAs from the University of Warsaw: one in philosophy, and one in history (with distinction). My PhD research at PAN, supervised by Prof. Marcin Miłkowski, culminated in my dissertation, *Information-based Explanations in Cognitive Science*. You can check it out, alongside my other papers, in the Publications section.
+Currently, I am a researcher at the [Institute of Philosophy and Sociology](https://ifispan.pl/en/) at the Polish Academy of Sciences (PAN) in Warsaw, affiliated with the Section for Logic and Cognitive Science. I hold two MAs from the University of Warsaw: one in philosophy, and one in history (with distinction). My PhD research at PAN, supervised by [Prof. Marcin Miłkowski](https://marcinmilkowski.pl), culminated in my dissertation, *Information-based Explanations in Cognitive Science*. You can [check it out](\publications\dissertation), alongside my other papers, in the [Publications](/publications) section.
 
 ## My Research
 
@@ -43,13 +43,15 @@ Currently, I am a researcher at the Institute of Philosophy and Sociology at the
 
 My research lies at the intersection of philosophy and cognitive science (especially neuroscience and psychology). I am interested in how philosophy can actively contribute to cognitive science through formal tools and models ("philosophy *in* cognitive science"), as well as how it can evaluate the field from a meta-level ("philosophy *of* cognitive science"). Through these dual lenses, I focus primarily on the philosophy of information and computational theories of mind.
 
-More specifically, my current work investigates the scope and status of information theories in explaining both natural and artificial cognition. My PhD dissertation combined novel ideas about structural representations and semantic information with an epistemological assessment of how much explanatory power information-based theories actually hold. Stemming directly from this foundation, two papers I recently wrote focus, respectively, on compression-based accounts of representation, and defining genuine generativity. They are both currently under review, but you are welcome to read the manuscripts (in the Publications section).
+More specifically, my current work investigates the scope and status of information theories in explaining both natural and artificial cognition. My PhD dissertation combined novel ideas about structural representations and semantic information with an epistemological assessment of how much explanatory power information-based theories actually hold. Stemming directly from this foundation, two papers I recently wrote focus, respectively, on [compression-based accounts of representation](\publications\komprepr), and [defining genuine generativity](\publications\generativity). They are both currently under review, but you are welcome to read the manuscripts (in the Publications section).
 
 In another extension of my PhD research, I argue that current debates about the "decouplability" criterion of representational mechanisms mysteriously ignore the temporal dimension. I propose conceptualizing detachability—or representational "distance" (following Brian Cantwell Smith)—through the offline/online processing distinction. Cross-referencing these categories yields a much more fine-grained, empirically sound taxonomy of the gradient from non-representational to representational states.
 
-Recently, I have also started exploring the philosophical consequences of the two-point neural architectures postulated by Bill Phillips. I investigate how introducing context-sensitive mechanisms into a single neuron can help us navigate key problems in the philosophy of neuroscience, such as error detection and conflict resolution (a challenge I call the <i>Semantic Judge problem</i>). This work has direct ramifications for debates on representation and predictive processing.
+Recently, I have also started exploring the philosophical consequences of the two-point neural architectures postulated by [Bill Phillips](/publication/recphilofsci). I investigate how introducing context-sensitive mechanisms into a single neuron can help us navigate key problems in the philosophy of neuroscience, such as error detection and conflict resolution (a challenge I call the <i>Semantic Judge problem</i>). This work has direct ramifications for debates on representation and predictive processing (new collaboration with Tomas Marvan from the Czech Academy of Sciences).
 
 Other issued I worked on in the past include: cognitive penetrability of perception, algorithmization in AI ethics, the status of representational format in neuroscience, and informational accounts of inference. I hope I can revive at least some of them (especially the last two!).
+
+I also reviewed for *Philosophy of Science*, *Philosophical Psychology*, *Cognitive Systems Research*, *Kriterion*, *Avant: Journal of Philosophical Vanguard*, *Balkan Journal of Philosophy* and served as a scientific editor for *Filozofia Nauki* (top Polish philosophy of science journal) since 2022.
 
 <div class="section-image">
   <img src="/images/gauld_turing.jpg" alt="Evolution of the Turing Test">
@@ -67,7 +69,7 @@ In particular, I want to argue for the shift in "standards of rationality" broug
   <figcaption>One of the first Polish infographics, uncovered during my archival work on history of data in Poland</figcaption>
 </div>
 
-This core research has also generated two major spin-off projects. The first explores the history of statistics in sustainability sciences, titled *To Foresee and Forestall*. The second translates these historical developments for a broader audience: I currently have a popular science book about the history of quantification, titled *Przewaga liczebna. Jak nauczyliśmy się kochać liczyć* (<i>=Numerical Advantage: How We Learned to Love Counting</i>), almost ready for publication.
+This core research has also generated two major spin-off projects. The first explores the history of statistics in sustainability sciences, titled [*To Foresee and Forestall*.](/portfolio/sustainability) The second translates these historical developments for a broader audience: I currently have a popular science book about the history of quantification, titled *Przewaga liczebna. Jak nauczyliśmy się kochać liczyć* [(<i>=Numerical Advantage: How We Learned to Love Counting</i>)](/portfolio/numerical), almost ready for publication.
 
 
 ## On My Desk: Selected Current Projects
@@ -86,7 +88,7 @@ This core research has also generated two major spin-off projects. The first exp
 
 ## Where I've Been
 
-I've presented my research across Europe and beyond—from Warsaw to Pasadena, from Prague to Ulaanbaatar. Check out my [talks page](/talks/) to see the list of places I've shared ideas, or explore interactively via the interactive map in [talks map](/talks-map/).
+I've presented my research across Europe and beyond - from Warsaw to Pasadena, Paris to Ulaanbaatar, Mongolia.
 
 <div class="section-image">
   <img src="/images/IMG_9941.jpeg" alt="Giving a talk in Mongolia">
@@ -95,13 +97,13 @@ I've presented my research across Europe and beyond—from Warsaw to Pasadena, f
 
 ## Around the site
 
-If you are interested in some of these problems, you are cordially invited to check the ‘Projects’ or ‘Publications’ tabs for more detailed information. The former covers bigger projects that are well advanced, but still under construction, whilst the latter contains published texts or ones that are at least already in a readable form (drafts or manuscripts currently under review). 
+If you are interested in some of these problems, you are cordially invited to check the [*Projects*](\portfolio) or [*Publications*](/publications) tabs for more detailed information. The former covers bigger projects that are well advanced, but still under construction, whilst the latter contains published texts or ones that are at least already in a readable form (drafts or manuscripts currently under review). 
 
-I also have some popular writing under my belt, these can be found in 'Popular Writing' section (no points for this one, sorry!). Topics covered are ones I study academically, only in much edible form and include mindreading, theories of consciousness, practical merits of doing philosophy and an essay on the history of modern numbers-mania called <i>Metricracy</i> featured in <i>Znak</i> magazine. Others are still in the process of being published in other weeklies and monthlies, but you can already check out the manuscripts (albeit in Polish only!).
+I also have some popular writing under my belt, these can be found in 'Popular Writing' section (no points for this one, sorry!). Topics covered are ones I study academically, only in much edible form and include mindreading, theories of consciousness, practical merits of doing philosophy (all three coming up within the next two months!) and an essay on the history of modern numbers-mania called [<i>Metricracy</i>](\popular\metricracy) featured in <i>Znak</i> magazine. Others are still in the process of being published in other weeklies and monthlies, but you can already check out the manuscripts (albeit in Polish only!).
 
 You may also find slideshows of selected conference talks and lectures that I gave under the ‘Talks’ banner. Current languages available include English, Polish, and… Mongolian! Note: all talks are properly equipped with abstracts and slides for now, but that will change soon!
 
-**Lastly, I thoroughly enjoy talking ideas and collaborating, so do not hesitate to get in touch via e-mail: wojciech.mamak@gmail.com (you can also use the sidebar on the left), if some of the problems I work on grabbed your interest, too!** 
+**Lastly, I thoroughly enjoy talking ideas and collaborating, so do not hesitate to get in touch via e-mail: [wojciech.mamak@gmail.com](mailto:wojciech.mamak@gmail.com) (you can also use the sidebar on the left), if some of the problems I work on grabbed your interest, too!** 
 
 ## Extracurriculars
 

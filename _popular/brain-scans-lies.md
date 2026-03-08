@@ -1,12 +1,14 @@
 ---
-title: "Brain Scans Can't Read Lies (Kłamstwo po prostu nie mieści się w głowie)"
+title: "Brain Scans Can't Read Lies *(In Polish)*"
 collection: popular
 permalink: /popular/brain-scans-lies
 excerpt: 'Exposing the dangerous myth of technological lie detection—from fatal polygraph failures to the seductive allure of fMRI brain scans—and why truth is a social relationship, not a biological marker.'
-date: 2000-01-01
+# date: 2000-01-01
 venue: 'Draft - forthcoming'
 # paperurl: 'ADD-URL-AFTER-PUBLICATION'
 ---
+
+# Kłamstwo po prostu nie mieści się w głowie
 
 ***[Draft - Forthcoming Publication]***
 

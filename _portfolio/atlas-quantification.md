@@ -1,6 +1,6 @@
 ---
 title: "The Atlas of Quantification"
-excerpt: "Mapping the historical, social, and cognitive expansion of quantification across various domains of modern life"
+excerpt: "Mapping the historical, social, and cognitive expansion of quantification across various domains of modern life (early-stage project)"
 collection: portfolio
 permalink: /portfolio/atlas-quantification
 ---
