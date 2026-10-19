@@ -10,9 +10,9 @@ redirect_from:
 
 ---
 
-Hi, I’m Wojtek. I am a philosopher and historian of science. My research focuses on the intersection of philosophy & cognitive (neuro)science, while investigating history of quantitative ideas on the side. Accordingly, I try to answer <i>two</i> central questions: what are the promises and perils of using information theories to explain the mind, and how has the [historical rise of statistics](\portfolio\shift.) shaped our modern standards of rationality? 
+Hi, I’m Wojtek. I am a philosopher and historian of science. My research focuses on the intersection of philosophy & cognitive (neuro)science, while investigating history of quantitative ideas on the side. Accordingly, I try to answer <i>two</i> central questions: what are the promises and perils of using information theories to explain the mind, and how has the [historical rise of statistics](/portfolio/shift/) shaped our modern standards of rationality? 
 
-Currently, I am a researcher at the [Institute of Philosophy and Sociology](https://ifispan.pl/en/) at the Polish Academy of Sciences (PAN) in Warsaw, affiliated with the Section for Logic and Cognitive Science. I hold two MAs from the University of Warsaw: one in philosophy, and one in history (with distinction). My PhD research at PAN, supervised by [Prof. Marcin Miłkowski](https://marcinmilkowski.pl), culminated in my dissertation, *Information-based Explanations in Cognitive Science*. You can [check it out](\publications\dissertation), alongside my other papers, in the [Publications](/publications) section.
+Currently, I am a post-doctoral researcher at the [Institute of Philosophy and Sociology](https://ifispan.pl/en/) at the Polish Academy of Sciences (PAN) in Warsaw, affiliated with the Section for Logic and Cognitive Science, and a senior specialist at [NASK National Research Institute](https://nask.pl/), where I work on the social impact of AI, disinformation, and AI safety and governance. I hold two MAs from the University of Warsaw: one in philosophy, and one in history (with distinction). My PhD research at PAN, supervised by [Prof. Marcin Miłkowski](https://marcinmilkowski.pl), culminated in my dissertation, *Information-based Explanations in Cognitive Science*, which I defended with distinction in October 2026. You can [check it out](/publication/dissertation), alongside my other papers, in the [Publications](/publications) section.
 
 ## My Research
 
@@ -43,7 +43,7 @@ Currently, I am a researcher at the [Institute of Philosophy and Sociology](http
 
 My research lies at the intersection of philosophy and cognitive science (especially neuroscience and psychology). I am interested in how philosophy can actively contribute to cognitive science through formal tools and models ("philosophy *in* cognitive science"), as well as how it can evaluate the field from a meta-level ("philosophy *of* cognitive science"). Through these dual lenses, I focus primarily on the philosophy of information and computational theories of mind.
 
-More specifically, my current work investigates the scope and status of information theories in explaining both natural and artificial cognition. My PhD dissertation combined novel ideas about structural representations and semantic information with an epistemological assessment of how much explanatory power information-based theories actually hold. Stemming directly from this foundation, two papers I recently wrote focus, respectively, on [compression-based accounts of representation](\publications\komprepr), and [defining genuine generativity](\publications\generativity). They are both currently under review, but you are welcome to read the manuscripts (in the Publications section).
+More specifically, my current work investigates the scope and status of information theories in explaining both natural and artificial cognition. My PhD dissertation combined novel ideas about structural representations and semantic information with an epistemological assessment of how much explanatory power information-based theories actually hold. Stemming directly from this foundation, two papers I recently wrote focus, respectively, on [compression-based accounts of representation](/publication/komprepr), and [defining genuine generativity](/publication/generativity). They are both currently under review, but you are welcome to read the manuscripts (in the Publications section).
 
 In another extension of my PhD research, I argue that current debates about the "decouplability" criterion of representational mechanisms mysteriously ignore the temporal dimension. I propose conceptualizing detachability—or representational "distance" (following Brian Cantwell Smith)—through the offline/online processing distinction. Cross-referencing these categories yields a much more fine-grained, empirically sound taxonomy of the gradient from non-representational to representational states.
 
@@ -69,14 +69,14 @@ In particular, I want to argue for the shift in "standards of rationality" broug
   <figcaption>One of the first Polish infographics, uncovered during my archival work on history of data in Poland</figcaption>
 </div>
 
-This core research has also generated two major spin-off projects. The first explores the history of statistics in sustainability sciences, titled [*To Foresee and Forestall*.](/portfolio/sustainability) The second translates these historical developments for a broader audience: I currently have a popular science book about the history of quantification, titled *Przewaga liczebna. Jak nauczyliśmy się kochać liczyć* [(<i>=Numerical Advantage: How We Learned to Love Counting</i>)](/portfolio/numerical), almost ready for publication.
+This core research has also generated two major spin-off projects. The first explores the history of statistics in sustainability sciences, titled [*To Foresee and Forestall*.](/portfolio/sustainability) The second translates these historical developments for a broader audience: I currently have a popular science book about the history of quantification, titled *Przewaga liczebna. Jak nauczyliśmy się kochać liczyć* [(<i>=Numerical Advantage: How We Learned to Love Counting</i>)](/portfolio/numerical-advantage), almost ready for publication.
 
 
 ## On My Desk: Selected Current Projects
 
 <div class="projects-list">
   <ul>
-    <li><a href="/portfolio/generativity"><strong>Defining Generativity:</strong></a> Distinguishing genuine information generation from faux-generativity in AI and cognitive systems.</li>
+    <li><a href="/publication/generativity"><strong>Defining Generativity:</strong></a> Distinguishing genuine information generation from faux-generativity in AI and cognitive systems.</li>
     <li><a href="/publication/meaningmatching"><strong>Representation & Compression:</strong></a> How compression mechanisms enable neural systems to efficiently preserve and process information.</li>
     <li><a href="/publication/recphilofsci"><strong>Mapping the Cooperative Neuron:</strong></a> Exploring the philosophical consequences of William Phillips' two-point neural architectures.</li>
     <li><a href="/portfolio/sustainability"><strong>To Foresee and Forestall:</strong></a> Tracing the history of statistics within sustainability sciences.</li>
@@ -97,9 +97,9 @@ I've presented my research across Europe and beyond - from Warsaw to Pasadena, P
 
 ## Around the site
 
-If you are interested in some of these problems, you are cordially invited to check the [*Projects*](\portfolio) or [*Publications*](/publications) tabs for more detailed information. The former covers bigger projects that are well advanced, but still under construction, whilst the latter contains published texts or ones that are at least already in a readable form (drafts or manuscripts currently under review). 
+If you are interested in some of these problems, you are cordially invited to check the [*Projects*](/portfolio/) or [*Publications*](/publications) tabs for more detailed information. The former covers bigger projects that are well advanced, but still under construction, whilst the latter contains published texts or ones that are at least already in a readable form (drafts or manuscripts currently under review). 
 
-I also have some popular writing under my belt, these can be found in 'Popular Writing' section (no points for this one, sorry!). Topics covered are ones I study academically, only in much edible form and include mindreading, theories of consciousness, practical merits of doing philosophy (all three coming up within the next two months!) and an essay on the history of modern numbers-mania called [<i>Metricracy</i>](\popular\metricracy) featured in <i>Znak</i> magazine. Others are still in the process of being published in other weeklies and monthlies, but you can already check out the manuscripts (albeit in Polish only!).
+I also have some popular writing under my belt, these can be found in 'Popular Writing' section (no points for this one, sorry!). Topics covered are ones I study academically, only in much edible form, and include an essay on the history of modern numbers-mania called [<i>Metricracy</i>](/popular/metricracy) and a defence of [philosophy's usefulness](/popular/philosophy-cures-cancer) (both in <i>Znak</i> magazine), a piece on [whether there are any colours left to discover](/popular/beyond-the-rainbow) (<i>Polityka</i>) and one on [what birds sing about](/popular/birdsong) (<i>Tygodnik Powszechny</i>). Others are still in the process of being published in other weeklies and monthlies, but you can already check out the manuscripts (albeit in Polish only!).
 
 You may also find slideshows of selected conference talks and lectures that I gave under the ‘Talks’ banner. Current languages available include English, Polish, and… Mongolian! Note: all talks are properly equipped with abstracts and slides for now, but that will change soon!
 
